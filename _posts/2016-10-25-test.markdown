@@ -1,6 +1,8 @@
 ---
 title: test
 date: 2016-10-25 20:06:00 Z
+permalink: my-new-test
+layout: detail-page
 ---
 
 # my new test
