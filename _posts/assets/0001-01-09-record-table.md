@@ -1,15 +1,15 @@
 ---
-published: true
+title: Record Table
+date: 0001-01-09 00:00:00 Z
+categories:
+- assets
 layout: detail-page
 lang: en
 section: assets
-title: "Record Table"
-nav-title: "Record Table"
-"meta-title": "Get an overview of the Record Table pattern used on HealthCare.gov"
-"meta-description": "Get an overview of Record Table pattern used on HealthCare.gov"
+nav-title: Record Table
+meta-title: Get an overview of the Record Table pattern used on HealthCare.gov
+meta-description: Get an overview of Record Table pattern used on HealthCare.gov
 nav-category: patterns
-categories:
-  - assets
 ---
 
 # Record table

@@ -1,17 +1,18 @@
 ---
-published: true
+title: Global modules
+date: 1901-01-07 00:00:00 Z
+categories:
+- design
 layout: detail-page
 lang: en
 section: design
-title: Global modules
 nav-title: Global
 meta-title: Get an overview of global modules used on HealthCare.gov
-meta-description: 'HealthCare.gov uses an overarching interaction model with two primary components: The Header and Footer are globally accessible components that are ubiquitous throughout the site and have standardized visual cues and design.'
+meta-description: 'HealthCare.gov uses an overarching interaction model with two primary
+  components: The Header and Footer are globally accessible components that are ubiquitous
+  throughout the site and have standardized visual cues and design.'
 nav-category: modules
-categories:
-  - design
 ---
-
 
 # Global modules
 

@@ -1,14 +1,15 @@
 ---
-published: true
+title: Page Layouts
+date: 0001-01-06 00:00:00 Z
+categories:
+- design
 layout: detail-page
 lang: en
 section: design
-title: "Page Layouts"
-nav-title: "Page Layouts"
-"meta-title": "Get an overview of page layouts used on HealthCare.gov"
-"meta-description": "HealthCare.gov utilizes the Bootstrap responsive, mobile-first fluid grid system for its page layout templates."
-categories:
-  - design
+nav-title: Page Layouts
+meta-title: Get an overview of page layouts used on HealthCare.gov
+meta-description: HealthCare.gov utilizes the Bootstrap responsive, mobile-first fluid
+  grid system for its page layout templates.
 ---
 
 # Page layouts

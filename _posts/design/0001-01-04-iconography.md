@@ -1,14 +1,16 @@
 ---
-published: true
+title: Iconography
+date: 0001-01-04 00:00:00 Z
+categories:
+- design
 layout: detail-page
 lang: en
 section: design
-title: "Iconography"
-nav-title: "Iconography"
-"meta-title": "Get an overview of the iconography used on HealthCare.gov"
-"meta-description": "The iconography used on HealthCare.gov is meant to provide a simple, easy-to-distinguish visual indicator of key actions or tasks and to provide visual interest or emphasis."
-categories:
-  - design
+nav-title: Iconography
+meta-title: Get an overview of the iconography used on HealthCare.gov
+meta-description: The iconography used on HealthCare.gov is meant to provide a simple,
+  easy-to-distinguish visual indicator of key actions or tasks and to provide visual
+  interest or emphasis.
 ---
 
 # Iconography

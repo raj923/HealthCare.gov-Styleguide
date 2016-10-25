@@ -1,23 +1,31 @@
+---
 title: HealthCare.gov Styleguide
-baseurl:
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+baseurl: 
 canonical-url: http://styleguide.healthcare.gov
-permalink: /:categories/:title/
+permalink: "/:categories/:title/"
 markdown: kramdown
-highlighter: null
+highlighter: 
 encoding: utf-8
-#exclude : ['sass', 'config.rb', 'README.md']
 exclude:
-  - .gitignore
-  - README.md
-  - privatekey.p12
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - .gitattributes
-  - Gruntfile.js
-  - package.json
-languages: &languages
-  - name: 'English'
-    value: 'en'
-  - name: 'Español'
-    value: 'es'
+- ".gitignore"
+- README.md
+- privatekey.p12
+- Gemfile
+- Gemfile.lock
+- node_modules
+- ".gitattributes"
+- Gruntfile.js
+- package.json
+languages:
+- name: English
+  value: en
+- name: Español
+  value: es

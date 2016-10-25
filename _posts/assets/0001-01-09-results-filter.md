@@ -1,15 +1,15 @@
 ---
-published: true
+title: Results Filter
+date: 0001-01-09 00:00:00 Z
+categories:
+- assets
 layout: detail-page
 lang: en
 section: assets
-title: "Results Filter"
-nav-title: "Results Filter"
-"meta-title": "Get an overview of the Skip to Results Filter pattern used on HealthCare.gov"
-"meta-description": "Get an overview of Results Filter pattern used on HealthCare.gov."
+nav-title: Results Filter
+meta-title: Get an overview of the Skip to Results Filter pattern used on HealthCare.gov
+meta-description: Get an overview of Results Filter pattern used on HealthCare.gov.
 nav-category: patterns
-categories:
-  - assets
 ---
 
 # Results Filter

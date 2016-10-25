@@ -1,15 +1,16 @@
 ---
-published: true
+title: Secondary CTA design
+date: 0001-01-09 00:00:00 Z
+categories:
+- design
 layout: detail-page
 lang: en
 section: design
-title: "Secondary CTA design"
-nav-title: "Secondary CTA"
-"meta-title": "Get an overview of the design of the secondary call to action areas used on HealthCare.gov landing pages"
-"meta-description": ""
+nav-title: Secondary CTA
+meta-title: Get an overview of the design of the secondary call to action areas used
+  on HealthCare.gov landing pages
+meta-description: ''
 nav-category: modules
-categories:
-  - design
 ---
 
 # Secondary CTA 

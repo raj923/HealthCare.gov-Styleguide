@@ -1,14 +1,15 @@
 ---
-published: true
+title: Photography
+date: 0001-01-05 00:00:00 Z
+categories:
+- design
 layout: detail-page
 lang: en
 section: design
-title: "Photography"
-nav-title: "Photography"
-"meta-title": "Get an overview of the photography used on HealthCare.gov"
-"meta-description": "Photography on  is used to support the message on the page, engage the consumer with identifiable images, and build trust."
-categories:
-  - design
+nav-title: Photography
+meta-title: Get an overview of the photography used on HealthCare.gov
+meta-description: Photography on  is used to support the message on the page, engage
+  the consumer with identifiable images, and build trust.
 ---
 
 # Photography

@@ -1,14 +1,16 @@
 ---
-published: true
+title: Typography
+date: 0001-01-03 00:00:00 Z
+categories:
+- design
 layout: detail-page
 lang: en
 section: design
-title: "Typography"
-nav-title: "Typography"
-"meta-title": "Get an overview of the typography used on HealthCare.gov"
-"meta-description": "The designs for HealthCare.gov have been stripped of all the unnecessary bells and whistles to place extra emphasis on the content. This magnifies the importance of well thought-out typography."
-categories:
-  - design
+nav-title: Typography
+meta-title: Get an overview of the typography used on HealthCare.gov
+meta-description: The designs for HealthCare.gov have been stripped of all the unnecessary
+  bells and whistles to place extra emphasis on the content. This magnifies the importance
+  of well thought-out typography.
 ---
 
 # Typography

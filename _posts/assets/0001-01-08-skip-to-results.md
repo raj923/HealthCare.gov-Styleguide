@@ -1,15 +1,16 @@
 ---
-published: true
+title: Skip to Results
+date: 0001-01-08 00:00:00 Z
+categories:
+- assets
 layout: detail-page
 lang: en
 section: assets
-title: "Skip to Results"
-nav-title: "Skip to Results"
-"meta-title": "Get an overview of the Skip to Results pattern used on HealthCare.gov"
-"meta-description": "Get an overview of Skip to Results pattern used on HealthCare.gov to allow site visitors to select specific time frames."
+nav-title: Skip to Results
+meta-title: Get an overview of the Skip to Results pattern used on HealthCare.gov
+meta-description: Get an overview of Skip to Results pattern used on HealthCare.gov
+  to allow site visitors to select specific time frames.
 nav-category: patterns
-categories:
-  - assets
 ---
 
 # Skip to results

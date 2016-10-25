@@ -1,15 +1,15 @@
 ---
-published: true
+title: Error Handling
+date: 0001-01-10 00:00:00 Z
+categories:
+- assets
 layout: detail-page
 lang: en
 section: assets
-title: "Error Handling"
-nav-title: "Error Handling"
-"meta-title": "Get an overview of the Error Handling pattern used on HealthCare.gov"
-"meta-description": "Get an overview of Error Handling pattern used on HealthCare.gov"
+nav-title: Error Handling
+meta-title: Get an overview of the Error Handling pattern used on HealthCare.gov
+meta-description: Get an overview of Error Handling pattern used on HealthCare.gov
 nav-category: patterns
-categories:
-  - assets
 ---
 
 # Error handling

@@ -1,15 +1,16 @@
 ---
-published: true
+title: Form element assets
+date: 0001-01-03 00:00:00 Z
+categories:
+- assets
 layout: detail-page
 lang: en
 section: assets
-title: "Form element assets"
-nav-title: "Form Elements"
-"meta-title": "Get an overview of form element assets used on HealthCare.gov"
-"meta-description": "Get an overview the  form element assets used on HealthCare.gov. Generally, forms are against a white or dark blue background."
+nav-title: Form Elements
+meta-title: Get an overview of form element assets used on HealthCare.gov
+meta-description: Get an overview the  form element assets used on HealthCare.gov.
+  Generally, forms are against a white or dark blue background.
 nav-category: components
-categories:
-  - assets
 ---
 
 # Form elements

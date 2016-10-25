@@ -1,15 +1,16 @@
 ---
-published: true
+title: Completed Steps
+date: 0001-01-05 00:00:00 Z
+categories:
+- assets
 layout: detail-page
 lang: en
 section: assets
-title: "Completed Steps"
-nav-title: "Completed Steps"
-"meta-title": "Get an overview of the Completed Steps pattern used on HealthCare.gov"
-"meta-description": "Get an overview of the Completed Steps pattern used in interactive tools on HealthCare.gov to present data as it is entered by the user. "
+nav-title: Completed Steps
+meta-title: Get an overview of the Completed Steps pattern used on HealthCare.gov
+meta-description: 'Get an overview of the Completed Steps pattern used in interactive
+  tools on HealthCare.gov to present data as it is entered by the user. '
 nav-category: patterns
-categories:
-  - assets
 ---
 
 # Completed steps

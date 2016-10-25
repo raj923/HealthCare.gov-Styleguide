@@ -1,15 +1,16 @@
 ---
-published: true
+title: Accordion patterns
+date: 0001-01-06 00:00:00 Z
+categories:
+- assets
 layout: detail-page
 lang: en
 section: assets
-title: "Accordion patterns"
-nav-title: "Accordions"
-"meta-title": "Get an overview of accordion patterns used on HealthCare.gov"
-"meta-description": "Get an overview of accordion pattern used on HealthCare.gov to reduce the amount of text initially delivered on a single page."
+nav-title: Accordions
+meta-title: Get an overview of accordion patterns used on HealthCare.gov
+meta-description: Get an overview of accordion pattern used on HealthCare.gov to reduce
+  the amount of text initially delivered on a single page.
 nav-category: patterns
-categories:
-  - assets
 ---
 
 # Accordions

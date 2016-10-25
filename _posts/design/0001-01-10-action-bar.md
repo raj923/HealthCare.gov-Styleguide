@@ -1,15 +1,16 @@
 ---
-published: true
+title: Action bar design
+date: 0001-01-10 00:00:00 Z
+categories:
+- design
 layout: detail-page
 lang: en
 section: design
-title: "Action bar design"
-nav-title: "Action Bar"
-"meta-title": 'Get an overview of the design of the "action bar" area used on HealthCare.gov landing pages'
-"meta-description": "Healthcare.gov's Design Style Guide Page"
+nav-title: Action Bar
+meta-title: Get an overview of the design of the "action bar" area used on HealthCare.gov
+  landing pages
+meta-description: Healthcare.gov's Design Style Guide Page
 nav-category: modules
-categories:
-  - design
 ---
 
 # Action bar
