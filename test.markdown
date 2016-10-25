@@ -6,3 +6,4 @@ test:
 layout: detail-page
 ---
 
+# My Test page
