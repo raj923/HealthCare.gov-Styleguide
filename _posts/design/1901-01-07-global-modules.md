@@ -3,6 +3,8 @@ title: Global modules
 date: 1901-01-07 00:00:00 Z
 categories:
 - design
+tags:
+- style guide
 lang: en
 section: design
 nav-title: Global
